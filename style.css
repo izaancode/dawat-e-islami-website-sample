@@ -452,7 +452,7 @@ header button:active{
     overflow: hidden;
     transition: all 0.4s ease;
     cursor: pointer;
-    padding: 70px;
+    padding: 30px;
     
 }
 
@@ -723,3 +723,4 @@ footer hr{
     align-items: center;
 
 }
+
